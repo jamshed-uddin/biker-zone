@@ -1,0 +1,6 @@
+.focus-none{
+    box-shadow: none !important;
+}
+.focus-none:active, .focus-none:focus{
+    border: none !important;
+}
